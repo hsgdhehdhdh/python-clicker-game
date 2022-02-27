@@ -1,8 +1,8 @@
 # Python clicker game v1.0
 # ---------------------------------How to use:--------------------------------
-1. First, open the "Resolutions" folder, then open "index.html" in your browser,
-2. Second, click the button that says "Check resolution", it should it tell you your device resolution, remember that resolution,
-3. Close the browser tab, go back to you file explorer,
+1. First, open the "Resolutions" folder, then the "Screen resolution checker" folder, then open "index.html" in your browser,
+2. Second, click the button that says "Check resolution", it should it display your device resolution below the button, remember that number
+3. Close the browser tab, go back to your file explorer,
 4. Then go back to Resolutions folder,
 5. Then open the folder that's name is your resolution you got from index.html earlier,
 6. And lastly, open "Main.py"
@@ -34,3 +34,5 @@ On linux:
 1. Open terminal
 2. Run "$ python --version" you should also check if you have python 3, to check that run "$ python3 --version"
 3. If it says "Python 2.x.x" when you run "$ python --version" good, but if it also or only says it with "$ python3 --version" but instead it says "Python 3.x.x" then even better cuz u have python 3 installed
+# -------WARNING-------
+DO NOT, UNDER ANY CIRCUMSTANCE, OPEN OR EDIT file0.txt, IF YOU MESS WITH IT HORRIBLE THINGS CAN HAPPEN SUCH AS A BLANK VALUE FOR ONE OF YOU STATS OR A STRING VALUE
