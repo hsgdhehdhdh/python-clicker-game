@@ -1,4 +1,4 @@
-# Python clicker game v1.0
+# Python clicker game v1.1
 # ---------------------------------How to use:--------------------------------
 1. First, open the "Resolutions" folder, then the "Screen resolution checker" folder, then open "index.html" in your browser,
 2. Second, click the button that says "Check resolution", it should it display your device resolution below the button, remember that number
