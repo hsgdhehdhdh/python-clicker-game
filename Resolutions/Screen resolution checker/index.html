@@ -3,11 +3,12 @@
   <head>
     <title>Screen resolution checker</title>
     <script src='script.js'></script>
+    <script>function displayResolution() {document.getElementByID('resolutionShower').innerHTML = 'Your screen resolution is " + resolution;}</script>
     <link rel='stylesheet' href='styles.css'>
   </head>
   <body style='text-align: center;'>
     <h1>Screen resolution checker</h1>
-    <button class='screen-resolution-checker'>Check resolution</button>
+    <button class='screen-resolution-checker' onclick='displayResolution();'>Check resolution</button>
     <h4 id='resolutionShower'></h4>
   </body>
 </html>
