@@ -34,5 +34,5 @@ On linux:
 1. Open terminal
 2. Run "$ python --version" you should also check if you have python 3, to check that run "$ python3 --version"
 3. If it says "Python 2.x.x" when you run "$ python --version" good, but if it also or only says it with "$ python3 --version" but instead it says "Python 3.x.x" then even better cuz u have python 3 installed
-# ----------------------------------WARNING!----------------------------------
+# ---------------------------------WARNING!---------------------------------
 DO NOT, UNDER ANY CIRCUMSTANCE, OPEN OR EDIT file0.txt, IF YOU MESS WITH IT HORRIBLE THINGS CAN HAPPEN SUCH AS A BLANK VALUE FOR ONE OF YOU STATS OR A STRING VALUE
